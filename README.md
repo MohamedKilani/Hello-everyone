@@ -1,3 +1,3 @@
 # Hello-everyone
-# I have a degree in Business Information Systems from Misr University for Science and Technology in Egypt.
-# Currently my goals are to have good knowledge of Programming foundations, also to get experience in building real-world applications.
+###I strong foundation in IT fundamentals, I am eager to apply my technical knowledge to resolve user issues efficiently. IT Technical Support | CCNA | MCSA
+### Currently I'm learning Linux Administration, Software Engineering Fundamentals
